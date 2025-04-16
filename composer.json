@@ -1,0 +1,19 @@
+{
+    "name": "yousufbasit/math",
+    "description": "a helpful package for math for learning purposes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yousufbasit\\Math\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yousuf AL-Hadhrami",
+            "email": "izkiboy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
