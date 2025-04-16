@@ -15,5 +15,11 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/YousufDev/YousufBasit"
+        }
+      ]
 }
